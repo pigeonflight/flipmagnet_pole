@@ -1,2 +1,2 @@
-# flipmagnet_pole
-The backend for flipmagnet
+# FlipMagnet Pole
+The backend for FlipMagnet
